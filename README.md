@@ -1,5 +1,5 @@
 # ThreatHunting
-hreat Hunting - Proactive threat detection framework leveraging advanced threat intelligence, IOCs, and MITRE ATT&amp;CK methodologies
+Threat Hunting - Proactive threat detection framework leveraging advanced threat intelligence, IOCs, and MITRE ATT&amp;CK methodologies
 
 By Ramyar Daneshgar 
 
